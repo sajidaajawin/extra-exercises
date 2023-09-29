@@ -1,0 +1,26 @@
+JavaScript expressions:
+
+var y=-9 * 3 //-27
+var x= "value is" + 50 //value is50
+
+var z=17 % 5 //2
+
+var i=5 % 17 //5
+
+var m=5 / 10 //0.5
+
+if (4 == 4){
+   //true
+}
+
+if (4 != 5){
+   //true
+}
+
+if (7 <= 8){
+   //true
+}
+
+Math.ceil(x) - Math.floor(x){
+   not determained 
+}
